@@ -19,7 +19,7 @@
       filter: none;
     }
 
-    /* Dark Mode: Add a glow to make the colors "pop" against dark tabs */
+    /* Dark Mode: Add a glow to make the colours "pop" against dark tabs */
     @media (prefers-color-scheme: dark) {
       path { 
         filter: url(#glow);
